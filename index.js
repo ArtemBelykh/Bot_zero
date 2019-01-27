@@ -1,3 +1,7 @@
+var port = process.env.PORT || 3000; 
+app.listen (порт, "0.0.0.0", function () { 
+console.log ("Listening on Port 3000"); 
+}); 
 const Discord = require('discord.js');
 const Bot = new Discord.Client();
 Bot.commands = new Discord.Collection();
