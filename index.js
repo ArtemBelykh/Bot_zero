@@ -1,4 +1,5 @@
-.listen(process.env.PORT || 5000);
+var port = process.env.PORT || CONFIG.port;
+app.listen(port);
 const Discord = require('discord.js');
 const Bot = new Discord.Client();
 Bot.commands = new Discord.Collection();
