@@ -6,10 +6,10 @@
   "scripts": {
     "start": "node index.js"
   },
-  "engines": {
-    "node": ">=10.15.0",
-    "npm": ">=6.4.1"
-  },
+"engine": { 
+"node": "5.0.0", 
+"npm": "4.6.1" 
+}, 
   "author": "",
   "license": "ISC",
   "dependencies": {
