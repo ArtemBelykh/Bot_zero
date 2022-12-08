@@ -15,7 +15,7 @@
     "botact": "^2.4.2",
     "cool-ascii-faces": "^1.3.4",
     "discord.js": "^11.4.2",
-    "express": "^4.16.4"
+    "express": "^4.18.2"
   },
   "devDependencies": {},
   "repository": {
